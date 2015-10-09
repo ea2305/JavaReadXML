@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+  <tabla nombre="Datos">
+    <usuario>
+      <id>1</id>
+      <status>0</status>
+      <nombre>Luis Fernando Herrera Pimentel</nombre>
+      <edad>19</edad>
+      <sexo>M</sexo>
+      <equipo>Desconocido</equipo>
+      <deporte>Futbol</deporte>
+      <entrenamiento>0x1.0p0</entrenamiento>
+    </usuario>
+    <usuario>
+      <id>2</id>
+      <status>0</status>
+      <nombre>Elihu Alejandro Cruz Albores</nombre>
+      <edad>19</edad>
+      <sexo>M</sexo>
+      <equipo>Ninguno</equipo>
+      <deporte>Ninguno</deporte>
+      <entrenamiento>0x1.0p0</entrenamiento>
+    </usuario>
+    <usuario>
+      <id>3</id>
+      <status>1</status>
+      <nombre>NOmbre del usuario</nombre>
+      <edad>20</edad>
+      <sexo>F</sexo>
+      <equipo>Ninguno</equipo>
+      <deporte>Desconocido</deporte>
+      <entrenamiento>0x1.8p1</entrenamiento>
+    </usuario>
+    <usuario>
+      <id>4</id>
+      <status>1</status>
+      <nombre>Carlos Alfonso Espinoza Cordero</nombre>
+      <edad>19</edad>
+      <sexo>M</sexo>
+      <equipo>Ninguno</equipo>
+      <deporte>Ninguno</deporte>
+      <entrenamiento>0x1.0p0</entrenamiento>
+    </usuario>
+    <usuario>
+      <id>5</id>
+      <status>1</status>
+      <nombre>Ivan Jacob Lopez</nombre>
+      <edad>19</edad>
+      <sexo>M</sexo>
+      <equipo>Equipo Universitario</equipo>
+      <deporte>Futbol</deporte>
+      <entrenamiento>0x1.cp2</entrenamiento>
+    </usuario>
+  </tabla>
+</tables>
+

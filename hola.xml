@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+  <tabla nombre="Datos">
+    <usuario>
+      <id>1</id>
+      <status>1</status>
+      <nombre>Alejandro</nombre>
+      <edad>30</edad>
+      <sexo>M</sexo>
+      <equipo>Ninguno</equipo>
+      <deporte>Futbol</deporte>
+      <entrenamiento>0x1.8p1</entrenamiento>
+    </usuario>
+  </tabla>
+</tables>
+

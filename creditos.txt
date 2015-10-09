@@ -1,0 +1,12 @@
+Universidad Politecnica de Chiapas
+	Campus Tuxtla		
+Ingenieria en Desarrollo de Software
+           Grupo "B" 
+Progrmacion Orientada a Objetos
+Catedratico:  Juan Carlos Lopez Pimentel
+
+Integrantes de equipo:
+
+Cruz Albores Elihu Alejandro		143405
+Herrera Pimentel Luis Fernando		143402
+Ortiz Escobar Carlos Maximiliano	143406

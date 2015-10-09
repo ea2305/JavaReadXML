@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+  <usuario>
+    <nombre>Elihu Alejandro</nombre>
+    <edad>19</edad>
+    <sexo>false</sexo>
+    <equipo>Equipo1</equipo>
+    <deporte>Futbol</deporte>
+    <entrenamiento>0x1.89999ap3</entrenamiento>
+    <nombre>Elihu Alejandro</nombre>
+    <edad>19</edad>
+    <sexo>false</sexo>
+    <equipo>Equipo1</equipo>
+    <deporte>Futbol</deporte>
+    <entrenamiento>0x1.89999ap3</entrenamiento>
+  </usuario>
+  <tabla nombre="Datos" />
+</tables>
+
